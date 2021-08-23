@@ -12,7 +12,7 @@ Nowadays, Videos which are too long on youtube are really hectic to watch. We wa
 3. Used Spacy NLP library to process this large volume of data <br />
 4. Built a GUI using tkinter library of python which saves summarized data at a particular location<br />
 *****
-**Requirements**:
+**Python Library Requirements**:<br />
 webvtt-py==0.4.5<br />
 youtube_dl==2020.3.24<br />
 pandas>=1.0.1<br />
